@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://[your-user-name].github.io/[your-repo-name]/",
+  "homepage": "https://ashokkotakommula.github.io/todolist/.",
   "scripts": {
     "test": "jest",
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --mode development --watch --open --hot",
